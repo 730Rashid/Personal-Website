@@ -1,0 +1,197 @@
+body{
+  background-color: #ffe4cb;
+  
+}
+.Title{
+  color: rgb(251, 63, 63);
+  text-align: center;
+  text-decoration: underline;
+  font-size: large;
+}
+.Subheading{
+  color: black;
+  text-align: center;
+  font-size: large;
+}
+.Image-title{
+  display: block;
+  height: 85%;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Second{
+  display: block;
+  background-color: rgb(246, 203, 224);
+  margin-left: auto;
+  margin-right: auto;
+  height: 3300px;
+  width: 100%;
+}
+.Image-Photo{
+  display: block;
+  position: absolute;
+  border-radius: 10rem;
+  left: 45%;
+  right: 45%;
+  margin-top: 8%;
+  height: 200px;
+  width: 200x;
+}
+.Image-Description{
+  position: relative;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  text-align: center;
+  top: 15%;
+  font-size: large;
+}
+.Image-Description2{
+  position: relative;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  text-align: center;
+  top: 15%;
+  font-size: large;
+}
+.Image-Intro{
+  position: relative;
+  font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+  text-align: center;
+  top: 12%;
+  color: rgb(19, 207, 119);
+}
+#skill{
+  position: relative;
+  font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+  text-align: center;
+  top: 18%;
+  color: rgb(19, 207, 119);
+}
+#Skill1-Intro{
+  position: relative;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  text-align: center;
+  top: 21%;
+  color: rgb(29, 174, 106) ;
+  text-decoration: underline;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-size: large;
+}
+#Skill1-Description{
+  position: relative;
+  font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif ;
+  text-align: center;
+  top: 21%;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: large;
+}
+.Skill2-Intro{
+  position: relative;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  top: 23%;
+  color: rgb(29, 174, 106);
+  text-decoration: underline;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: large;
+}
+.Skill2-Description{
+  position: relative;
+  font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif ;
+  text-align: center;
+  top: 23%;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: large;;
+}
+.Skill3-Intro{
+  position: relative;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  top: 25%;
+  color: rgb(29, 174, 106);
+  text-decoration: underline;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: large;
+}
+.Skill3-Description{
+  position: relative;
+  font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif ;
+  text-align: center;
+  top: 25%;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: large;
+}
+.titleProject{
+  position: relative;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  top: 29%;
+  color: rgb(255, 68, 193);
+  text-decoration: underline;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: large;
+}
+.projectTakeaway{
+  position: relative;
+  top: 32%;
+  text-align: center;
+  margin-right: 65%;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: underline;
+  font-size: large;
+}
+#descriptionTakeaway{
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+  text-decoration: none;
+  font-size: large;
+}
+.projectAI{
+  position: relative;
+  top: 20%;
+  text-align: center;
+  margin-left: 65%;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: underline;
+  font-size: large;
+}
+#descriptionAI{
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+  text-decoration: none;
+  font-size: large;
+}
+.imageTakeaway{
+  height: 100%;
+  width: 100%;
+}
+.imageAI{
+  height: 85%;
+  width: 85%;
+}
+.contactMe{
+  position: relative;
+  text-align: center;
+  top: 22%;
+}
+#contactMeButton{
+  position: relative;
+  text-align: center;
+  top: 22%;
+  margin-left: 47%;
+  margin-right: 47%;
+}
+#col1{
+  color: rgb(91, 225, 225);
+  text-decoration: underline;
+}
+#col2{
+  color: rgb(81, 111, 245);
+}
+#col3{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
